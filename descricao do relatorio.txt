@@ -1,0 +1,1 @@
+O modelo proposto coloca um arquivo excel pra cada algoritmo de agrupamento onde dentro de cada arquivo cada um tem uma folha cujo nome representa a taxa de imputacao a relacao ficaria a seguinte
