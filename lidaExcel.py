@@ -1,5 +1,6 @@
 import openpyxl
 import random
+
 #biblioteca para lidar com arquivos no excel
 def leMatriz(arquivo,aba):#arquivo xlsx, nome da aba 
     wb = openpyxl.load_workbook(arquivo)#wb recebe arquivo xlsx
